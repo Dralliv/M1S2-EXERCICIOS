@@ -1,2 +1,4 @@
 # M1S2-EXERCICIOS
-Exercicios da semana 2
+Curso FullStack 
+exercicios da semana 2
+
